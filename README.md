@@ -22,7 +22,6 @@
 <p align="left">
 <a href="https://dev.to/patrick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="patrick" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ntawuyirushintege patrick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ntawuyirushintege patrick" height="30" width="40" /></a>
-<a href="https://fb.com/ntawuyirushintege patrick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ntawuyirushintege patrick" height="30" width="40" /></a>
 <a href="https://instagram.com/payzzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="payzzo" height="30" width="40" /></a>
 </p>
 
